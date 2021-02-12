@@ -1,0 +1,13 @@
+Language Used: Python
+
+Library Used:numpy and cv2
+
+What is the project really about?
+
+Like in the movie "Harry Potter" there was an invisibility cloak, I tried to recreate that.
+Only the red color will get invisible and you will be seeing the background instead of any red object.
+
+Logic: We are capturing the live feed of the person and we are breaking that feed into images, 
+       basically frames.On those frames we will apply image segmentation to differentiate the 
+       color of the object from rest of the image and we then super-impose the background image over there.
+       So wherever the color of the cloth the background image is visible.
