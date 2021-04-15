@@ -30,20 +30,20 @@ $ git clone https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Adv
 ## Data
 
 `Data` folder contains original data
-Inside `Data` folder you will find a ``data_description.txt``  file where the description of the each features in the dataset is available.
-Click [here](https://drive.google.com/file/d/13TDiD7QAc_aaDHUKF7-G_l1DYdjkaZtm/view?usp=sharing) and download this .html file to view the EDA I have done in this dataset.
+Inside `Data` folder you will find a ``data_description.txt``  file where the description of each of the features in the dataset is available.
+Click [here](https://drive.google.com/file/d/13TDiD7QAc_aaDHUKF7-G_l1DYdjkaZtm/view?usp=sharing) and download this ``.html`` file to view the EDA I have done in this dataset.
 
 ## Repository-structure
 
 ### Libraries Used
 
- - `numpy`
- - `pandas`
- - `pandas_profiling`
- - `sklearn`
- - `xgboost`
- - `lightbgm`
- - `yellowbricks`
+ - ``numpy``
+ - ``pandas``
+ - ``pandas_profiling``
+ - ``sklearn``
+ - ``xgboost``
+ - ``lightbgm``
+ - ``yellowbricks``
 
 ### Exploratory data analysis
 Used pandas_profiling library here to get the necessary visualisations.
