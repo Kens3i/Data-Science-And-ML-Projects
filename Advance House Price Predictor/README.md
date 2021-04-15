@@ -62,8 +62,11 @@ Used pandas_profiling library here to get the necessary visualisations.
 - Blending both Models (50%+50%)
 ### Scores
 ``XGB Training score: 0.9878463275679412 ``
+<br/>
 ``XGB Test Score: 0.930856175748829``
+<br/>
 ``LGBM Training score: 0.9999557727264998``
+<br/>
 ``LGBM Test Score: 0.9101390980189892``
 
 ### Submission
