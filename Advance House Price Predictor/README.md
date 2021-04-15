@@ -71,6 +71,8 @@ Used pandas_profiling library here to get the necessary visualisations.
 
 ``LGBM Test Score: 0.9101390980189892``
 
+![](https://raw.githubusercontent.com/Kens3i/Data-Science-And-ML-Projects/main/Advance%20House%20Price%20Predictor/Images/plot2.png)
+
 ### Submission
 Creating submission.csv and saving the prediction dataset there. Then finally submitting it.
 
