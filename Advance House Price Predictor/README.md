@@ -33,7 +33,7 @@ $ git clone https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Adv
 Inside `Data` folder you will find a ``data_description.txt``  file where the description of each of the features in the dataset is available.
 Click [here](https://drive.google.com/file/d/13TDiD7QAc_aaDHUKF7-G_l1DYdjkaZtm/view?usp=sharing) and download this ``.html`` file to view the EDA I have done in this dataset.
 
-## But Why Blending ?
+## But Why Ensemble ?
 
 A common practice nowadays is to check the reviews of items before buying them. And when checking reviews, you often look for the items with a large number of reviews so you could know for sure about its rating. After going through the reviews from multiple people you decide whether to buy the item or not.
 
