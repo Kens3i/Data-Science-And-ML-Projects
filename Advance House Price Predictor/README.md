@@ -1,4 +1,4 @@
-# Kaggle House Prices Advanced Regression Techniques With XGB+LGBM Blend
+# Kaggle House Prices Prediction Using Ensemble Technique With XGB and LGBM.
 
 Repository for source code of kaggle competition: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 ![](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
@@ -21,7 +21,7 @@ There are several factors that influence the price a buyer is willing to pay for
 
 
 ## Overview
-Applied EDA, Data Preprocessing , Feature Engineering and finally a **50/50 blend of XGB and LGBM** regression model to achieve suitable predictions. For more information do visit the `Advance_House_Price_Prediction_XGB+LGBM.ipynb` file.
+Applied **EDA**, **Data Preprocessing** , **Feature Engineering** and finally a **50/50 blend of XGB and LGBM** regression model to achieve suitable predictions. For more information do visit the `Advance_House_Price_Prediction_XGB+LGBM.ipynb` file.
 
 You can make a clone of the repository from GitHub on your local machine using the following command (prerequisite: you need git installed on your system):
 
@@ -32,6 +32,12 @@ $ git clone https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Adv
 `Data` folder contains original data
 Inside `Data` folder you will find a ``data_description.txt``  file where the description of each of the features in the dataset is available.
 Click [here](https://drive.google.com/file/d/13TDiD7QAc_aaDHUKF7-G_l1DYdjkaZtm/view?usp=sharing) and download this ``.html`` file to view the EDA I have done in this dataset.
+
+## But Why Blending ?
+
+A common practice nowadays is to check the reviews of items before buying them. And when checking reviews, you often look for the items with a large number of reviews so you could know for sure about its rating. After going through the reviews from multiple people you decide whether to buy the item or not.
+
+Ensemble models in machine learning operate on a similar idea. They combine the decisions from multiple models to improve the overall performance. This approach allows for better predictive performance compared to a single model. This is the reason why ensemble methods were placed first in many prestigious machine learning competitions, such as the Netflix Competition, KDD 2009, and Kaggle.Ensemble models can help tackle some complex machine learning problems such as overfitting and underfitting.
 
 ## Repository-structure
 
