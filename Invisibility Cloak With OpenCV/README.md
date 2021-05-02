@@ -11,7 +11,7 @@
     
 4.  [Workflow](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Workflow)
 
-5.  [Screesnshots](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Screenshots)
+5.  [Screenshots](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Screenshots)
 
 6. [FAQs](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#FAQs)
 
