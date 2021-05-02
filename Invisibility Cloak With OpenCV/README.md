@@ -56,6 +56,7 @@ I always had a childhood fantasy of using an invisibility cloak. Well it turns o
 
 ## Screenshots
 ![](https://github.com/Kens3i/Data-Science-And-ML-Projects/blob/main/Invisibility%20Cloak%20With%20OpenCV/InvisibilityDemo.gif)
+<br>
 PS: Sometimes Due To Not Enough Lighting The Edges Get Distorted.
 
 
