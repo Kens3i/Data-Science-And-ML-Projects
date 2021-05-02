@@ -11,7 +11,7 @@
     
 4.  [Workflow](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Workflow)
 
-5.  [Screenshots](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Screenshots)
+5.  [Screenshot](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Screenshot)
 
 6. [FAQs](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#FAQs)
 
@@ -54,7 +54,7 @@ I always had a childhood fantasy of using an invisibility cloak. Well it turns o
 
 - Finally **adding both** the results to get the suitable output.
 
-## Screenshots
+## Screenshot
 ![](https://github.com/Kens3i/Data-Science-And-ML-Projects/blob/main/Invisibility%20Cloak%20With%20OpenCV/InvisibilityDemo.gif)
 <br>
 PS: Sometimes Due To Not Enough Lighting The Edges Get Distorted.
