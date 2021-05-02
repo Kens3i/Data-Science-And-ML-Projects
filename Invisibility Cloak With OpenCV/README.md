@@ -3,15 +3,17 @@
 
 ## Table of Contents
 
-1.  [Overview](https://github.com/Kens3i/Stocks-Daily#Overview)
+1.  [Overview](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Overview)
     
-2.  [Motivation](https://github.com/Kens3i/Stocks-Daily#Motivation)
+2.  [Motivation](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Motivation)
     
-3.  [Libraries Used](https://github.com/Kens3i/Stocks-Daily#Libraries-Used)
+3.  [Libraries Used](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Libraries-Used)
     
-4.  [Workflow](https://github.com/Kens3i/Stocks-Daily#Workflow)
-5.  [Screesnshots](https://github.com/Kens3i/Stocks-Daily#Screesnshots)
-6. [FAQs](https://github.com/Kens3i/Stocks-Daily#FAQs)
+4.  [Workflow](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Workflow)
+
+5.  [Screesnshots](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#Screesnshots)
+
+6. [FAQs](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV#FAQs)
 
 
 ## Overview
