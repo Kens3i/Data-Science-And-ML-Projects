@@ -23,6 +23,7 @@ Applied **EDA**, **Data Preprocessing** , **Feature Engineering** and finally a 
 
 
 ![](https://camo.githubusercontent.com/fb13d261358e042e0c52980b02e8aff2b4f39599813c99839bbc0230a4b897ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5334313738545732526d314c572f67697068792e676966)
+<br>
 **[Stocks Daily](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Stock%20Price%20Prediction%20Web-App)**
 
 This app let's you to generate a **live time-series** forecast of FAAMG stocks, **predict** the future price of them(upto 7 years) and also lets you **convert the currecy** as per your needs. Click [here](https://share.streamlit.io/kens3i/stocks-daily/main/main.py) to visit the website !
@@ -40,7 +41,8 @@ This app let's you to generate a **live time-series** forecast of FAAMG stocks, 
 |
 <br>
 
-[![](https://cdn.zmescience.com/wp-content/uploads/2015/09/640_invisibility-cloak.jpg)]() 
+[![](https://cdn.zmescience.com/wp-content/uploads/2015/09/640_invisibility-cloak.jpg)]()
+<br>
 **[Invisibility Cloak](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV)**
 
 This is simply a program that uses **image segmentation** and **image processing** to replace the foreground object of interest with the background. Only the **`red` color** will get **invisible** and we will be seeing the background instead of any red object. We are capturing the **live feed** of the person and breaking that feed into images, basically frames. On those frames we will apply **image segmentation** to differentiate the color of the object from rest of the image and we then super-impose the background image over there.  
