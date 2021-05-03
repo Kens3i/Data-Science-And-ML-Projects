@@ -38,7 +38,7 @@ This app let's you to generate a **live time-series** forecast of FAAMG stocks, 
 | [`streamlit`](https://streamlit.io/) | Streamlit turns data scripts into shareable web apps in minutes.All in Python. All for free. No front‑end experience required. |
 | [`datetime`](https://docs.python.org/3/library/datetime.html) |The [`datetime`](https://docs.python.org/3/library/datetime.html#module-datetime "datetime: Basic date and time types.") module supplies classes for manipulating dates and times.|
 | [`requests`](https://pypi.org/project/requests/) | Requests allows you to send HTTP/1.1 requests extremely easily. There’s no need to manually add query strings to your URLs, or to form-encode your `PUT` & `POST` data — but nowadays, just use the `json` method!|
-|
+
 <br>
 
 [![](https://cdn.zmescience.com/wp-content/uploads/2015/09/640_invisibility-cloak.jpg)]()
@@ -54,7 +54,7 @@ This is simply a program that uses **image segmentation** and **image processing
 | [`numpy`](https://numpy.org/) | Adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
 | [`cv2`](https://pypi.org/project/opencv-python/) | Unofficial, pre-built CPU-only OpenCV packages for Python. |
 | [`time`](https://docs.python.org/3/library/time.html) | This module provides various time-related functions.|
-|
+
 
 ## Core Competencies
 
