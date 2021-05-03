@@ -4,7 +4,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 
 ## Projects
-<br>
+
 **[Advance House Price Predictor](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Advance%20House%20Price%20Predictor)**
 <br>
 ![](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)
