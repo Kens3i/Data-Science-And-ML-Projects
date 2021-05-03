@@ -4,8 +4,10 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 
 
 ## Projects
-
-[![](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)]() **[Advance House Price Predictor](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Advance%20House%20Price%20Predictor)**
+<br>
+**[Advance House Price Predictor](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Advance%20House%20Price%20Predictor)**
+<br>
+[![](https://storage.googleapis.com/kaggle-competitions/kaggle/5407/media/housesbanner.png)]
 
 There are several factors that influence the price a buyer is willing to pay for a house. Some are apparent and obvious and some are not. Nevertheless, a rational approach facilitated by machine learning can be very useful in predicting the house price. A large data set with 79 different features (like living area, number of rooms, location etc) along with their prices are provided for residential homes in Ames, Iowa. The challenge is to learn a relationship between the important features and the price and use it to predict the prices of a new set of houses.
 Applied **EDA**, **Data Preprocessing** , **Feature Engineering** and finally a **50/50 blend of XGB and LGBM** regression model to achieve suitable predictions.
@@ -23,6 +25,7 @@ Applied **EDA**, **Data Preprocessing** , **Feature Engineering** and finally a 
 <br>
 
 **[Stocks Daily](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Stock%20Price%20Prediction%20Web-App)**
+<br>
 ![](https://camo.githubusercontent.com/fb13d261358e042e0c52980b02e8aff2b4f39599813c99839bbc0230a4b897ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5334313738545732526d314c572f67697068792e676966)
 <br>
 
@@ -43,6 +46,7 @@ This app let's you to generate a **live time-series** forecast of FAAMG stocks, 
 <br>
 
 **[Invisibility Cloak](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Invisibility%20Cloak%20With%20OpenCV)**
+<br>
 [![](https://cdn.zmescience.com/wp-content/uploads/2015/09/640_invisibility-cloak.jpg)]()
 <br>
 
