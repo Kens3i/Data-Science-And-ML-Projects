@@ -19,7 +19,6 @@ Applied **EDA**, **Data Preprocessing** , **Feature Engineering** and finally a 
 | [`xgboost`](https://xgboost.readthedocs.io/en/latest/) | **XGBoost** is an optimized distributed gradient boosting library designed to be highly **efficient**, **flexible** and **portable**. It implements machine learning algorithms under the [Gradient Boosting](https://en.wikipedia.org/wiki/Gradient_boosting) framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples. |
 | [`lightbgm`](https://lightgbm.readthedocs.io/en/latest/) |**LightGBM** is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distributed and efficient with the following advantages which are,**faster training speed and higher efficiency,Lower memory usage, better accuracy, Support of parallel, distributed and GPU learning,and  Capable of handling large-scale data.** |
 | [`yellowbricks`](https://www.scikit-yb.org/en/latest/) | Yellowbrick extends the Scikit-Learn API to make model selection and hyperparameter tuning easier. Under the hood, it’s using Matplotlib.|
-|
 <br>
 
 
