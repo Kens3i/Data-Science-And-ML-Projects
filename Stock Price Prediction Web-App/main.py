@@ -215,7 +215,7 @@ with st.beta_expander("Credits 💎"):
     st.subheader("Author:")
     st.image("https://avatars.githubusercontent.com/u/52373756?s=400&u=f3b4f3403656c3f61c6b378f1028803bd9e81031&v=4")
     st.markdown(""" App Made By **[Koustav Banerjee](https://www.linkedin.com/in/kens3i/)**""")
-    st.markdown("""**[Source code]()**""")
+    st.markdown("""**[Source code](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Stock%20Price%20Prediction%20Web-App)**""")
     st.markdown("""
     * **Python libraries:** streamlit, pandas, datetime, yfinance, fbprophet, plotly, requests, json
     * **Data source(For Currency):** [ratesapi.io](https://ratesapi.io/) which is based on data published by [European Central Bank](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html)
