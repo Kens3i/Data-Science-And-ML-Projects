@@ -205,9 +205,12 @@ def load_curr():
     df = pd.concat( [base_currency, rates_df, conversion_date], axis=1 ) #axis = 1 so concat side by side
     return df
 
-df = load_curr()
-st.subheader('Converted Currency 💱')
-st.write(df)
+try:
+    df = load_curr()
+    st.subheader('Converted Currency 💱')
+    st.write(df)
+except requests.exceptions.ConnectionError:
+    st.write("Connection Temporarily Refused, An API Error")
 
 
 
