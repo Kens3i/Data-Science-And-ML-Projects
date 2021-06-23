@@ -86,4 +86,4 @@ This is simply a program that uses **image segmentation** and **image processing
 
 If you liked what you've seen, want to have a chat with me about the portfolio, work opportunities, or collaboration, feel free to reach me out :
 -   Email: rishavkoustav@gmail.com
--   [LinkedIn](https://www.linkedin.com/in/kens3i/)
+-   [LinkedIn](https://www.linkedin.com/in/koding-senpai/)
