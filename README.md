@@ -56,9 +56,10 @@ This is simply a program that uses **image segmentation** and **image processing
 ### Libraries Used:
 | Libraries | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [`numpy`](https://numpy.org/) | Adds Python support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays. |
-| [`cv2`](https://pypi.org/project/opencv-python/) | Unofficial, pre-built CPU-only OpenCV packages for Python. |
-| [`time`](https://docs.python.org/3/library/time.html) | This module provides various time-related functions.|
+| [`pandas`](https://pandas.pydata.org/) | pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.|
+| [`nltk`](https://www.nltk.org/) | NLTK is a leading platform for building Python programs to work with human language data.|
+| [`sk-learn`](https://scikit-learn.org/stable/) | Simple and efficient tools for predictive data analysis.|
 
 
 ## Core Competencies
