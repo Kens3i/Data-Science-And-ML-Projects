@@ -11,8 +11,8 @@
 3.  [Libraries Used](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#Libraries-Used)
     
 4.  [Workflow](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#Workflow)
-5.  [Screesnshots](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#Screesnshots)
-6. [FAQs](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#FAQs)
+
+5. [FAQs](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#FAQs)
 
 
 ## Overview
