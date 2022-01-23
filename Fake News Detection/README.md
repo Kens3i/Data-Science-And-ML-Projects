@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-1.  [Overview](https://github.com/Kens3i/Stocks-Daily#Overview)
+1.  [Overview](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#Overview)
     
-2.  [Motivation](https://github.com/Kens3i/Stocks-Daily#Motivation)
+2.  [Motivation](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#Motivation)
     
-3.  [Libraries Used](https://github.com/Kens3i/Stocks-Daily#Libraries-Used)
+3.  [Libraries Used](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#Libraries-Used)
     
-4.  [Workflow](https://github.com/Kens3i/Stocks-Daily#Workflow)
-5.  [Screesnshots](https://github.com/Kens3i/Stocks-Daily#Screesnshots)
-6. [FAQs](https://github.com/Kens3i/Stocks-Daily#FAQs)
+4.  [Workflow](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#Workflow)
+5.  [Screesnshots](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#Screesnshots)
+6. [FAQs](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Fake%20News%20Detection#FAQs)
 
 
 ## Overview
