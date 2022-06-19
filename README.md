@@ -24,7 +24,7 @@ Applied **EDA**, **Data Preprocessing** , **Feature Engineering** and finally a 
 <br>
 <br>
 
-**[Stocks Daily](https://github.com/Kens3i/Data-Science-And-ML-Projects/tree/main/Stock%20Price%20Prediction%20Web-App)**
+**[The Stock Prediction App](https://github.com/Kens3i/The-Stock-Prediction-App)**
 <br>
 ![](https://camo.githubusercontent.com/fb13d261358e042e0c52980b02e8aff2b4f39599813c99839bbc0230a4b897ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5334313738545732526d314c572f67697068792e676966)
 <br>
