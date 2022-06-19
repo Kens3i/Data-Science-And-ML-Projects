@@ -29,7 +29,7 @@ Applied **EDA**, **Data Preprocessing** , **Feature Engineering** and finally a 
 ![](https://camo.githubusercontent.com/fb13d261358e042e0c52980b02e8aff2b4f39599813c99839bbc0230a4b897ff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5334313738545732526d314c572f67697068792e676966)
 <br>
 
-This app let's you to generate a **live time-series** forecast of FAAMG stocks, **predict** the future price of them(upto 7 years) and also lets you **convert the currecy** as per your needs. Click [here](https://share.streamlit.io/kens3i/stocks-daily/main/main.py) to visit the website !
+This app lets you generate a live time-series forecast of FAAMG stocks, predict the short term and long term future prices of them (up to 7 years), lets you convert the currency as per your needs, and also lets you convert currency from as per the user likes. Click [here](https://share.streamlit.io/kens3i/the-stock-prediction-app/main/app.py) to visit the website !
 
 ### Libraries Used:
 | Libraries | Description |
